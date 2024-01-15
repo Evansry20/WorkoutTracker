@@ -5,7 +5,7 @@ This application uses the following Python libraries:
     pytz
 
 These are the imports used:
-     import json
+    import json
     from datetime import datetime
     from datetime import timedelta
     import matplotlib.pyplot as plt
