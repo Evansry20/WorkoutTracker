@@ -1,0 +1,13 @@
+This application uses the following Python libraries:
+    json
+    datetime
+    matplotlib.pyplot
+    pytz
+
+These are the imports used:
+     import json
+    from datetime import datetime
+    from datetime import timedelta
+    import matplotlib.pyplot as plt
+    import pytz
+

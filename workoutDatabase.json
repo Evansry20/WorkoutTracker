@@ -1,0 +1,476 @@
+[
+  {
+    "date": "12-26-2023",
+    "workoutday": "Arms",
+    "Day of Week": "Tuesday",
+    "exercises": [
+      {
+        "name": "Cable Bicep Curls",
+        "weight": "60",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Overhead Tricep Extensions",
+        "weight": "65",
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "Cable Single Bicep Curls",
+        "weight": "20",
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "weight": "25",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Machine Overhead Press",
+        "weight": "140",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-02-2024",
+    "workoutday": "Chest and Back",
+    "Day of Week": "Monday",
+    "exercises": [
+      {
+        "name": "Dumbbell Incline Press",
+        "weight": "60",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      },
+      {
+        "name": "High Row Machine",
+        "weight": "90",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Machine Flys",
+        "weight": "120",
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "Machine Pullover",
+        "weight": "70",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      },
+      {
+        "name": "Machine Incline Press",
+        "weight": "205",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-03-2024",
+    "workoutday": "Legs",
+    "Day of Week": "Wednesday",
+    "exercises": [
+      {
+        "name": "Back Squats",
+        "weight": "225",
+        "sets": 3,
+        "reps": [
+          9,
+          9,
+          9
+        ]
+      },
+      {
+        "name": "Leg Press",
+        "weight": "450",
+        "sets": 3,
+        "reps": [
+          6,
+          6,
+          8
+        ]
+      },
+      {
+        "name": "Smith Machine Calf Raises",
+        "weight": "265",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Leg Curls",
+        "weight": "160",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Seated Calf Raises",
+        "weight": "110",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-04-2024",
+    "workoutday": "Chest and Back",
+    "Day of Week": "Thursday",
+    "exercises": [
+      {
+        "name": "Dumbbell Incline Press",
+        "weight": "60",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Machine Flys",
+        "weight": "125",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      },
+      {
+        "name": "Machine Incline Press",
+        "weight": "225",
+        "sets": 3,
+        "reps": [
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "name": "Machine Pullover",
+        "weight": "70",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Underhand Lat Pull Down",
+        "weight": "160",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Machine Shrugs",
+        "weight": "225",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-05-2024",
+    "workoutday": "Arms",
+    "Day of Week": "Friday",
+    "exercises": [
+      {
+        "name": "Cable Bicep Curls",
+        "weight": "62.5",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Dumbbell Hammer Curls",
+        "weight": "40",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Overhead Tricep Extensions",
+        "weight": "67.5",
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "Cable Tricep Pushdowns",
+        "weight": "67.5",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "weight": "25",
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-06-2024",
+    "workoutday": "Legs",
+    "Day of Week": "Saturday",
+    "exercises": [
+      {
+        "name": "Back Squats",
+        "weight": "185",
+        "sets": 1,
+        "reps": [
+          20
+        ]
+      },
+      {
+        "name": "Smith Machine Calf Raises",
+        "weight": "265",
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          12
+        ]
+      },
+      {
+        "name": "Leg Curls",
+        "weight": "165",
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Seated Calf Raises",
+        "weight": "110",
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-08-2024",
+    "workoutday": "Chest and Back",
+    "Day of Week": "Monday",
+    "exercises": [
+      {
+        "name": "Incline Bench Press",
+        "weight": 135.0,
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Machine Flys",
+        "weight": 125.0,
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "name": "Machine Cable Press",
+        "weight": 110.0,
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "name": "Machine Pullover",
+        "weight": 70.0,
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "High Row Machine",
+        "weight": 90.0,
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "Machine Shrugs",
+        "weight": 225.0,
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "date": "01-15-2024",
+    "workoutday": "Chest and Back",
+    "Day of Week": "Monday",
+    "exercises": [
+      {
+        "name": "Incline Bench Press",
+        "weight": 155.0,
+        "sets": 3,
+        "reps": [
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "name": "Machine Flys",
+        "weight": 125.0,
+        "sets": 3,
+        "reps": [
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "name": "Machine Cable Press",
+        "weight": 110.0,
+        "sets": 3,
+        "reps": [
+          10,
+          10,
+          11
+        ]
+      },
+      {
+        "name": "Machine Pullover",
+        "weight": 80.0,
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      },
+      {
+        "name": "High Row Machine",
+        "weight": 100.0,
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      },
+      {
+        "name": "Machine Shrugs",
+        "weight": 245.0,
+        "sets": 3,
+        "reps": [
+          8,
+          8,
+          10
+        ]
+      }
+    ]
+  }
+]
